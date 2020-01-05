@@ -1,2 +1,1 @@
-# 92797.github.io
-Blog
+# 这是92797的github主页.
