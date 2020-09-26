@@ -1,0 +1,43 @@
+scheme        方案
+coroutine     协程
+iterator        迭代器
+capitalize     用大写字母书写（或印刷）; 把…首字母大写; 变卖资产; 变现; 为…提供运营资本（或资金）
+discard        规模; 抛弃; 垫（牌）; 打出（无用的牌） |被抛弃的人（或物）; （尤指纸牌游戏中）垫出的牌
+distribution 分配;分布;分发;分送;(商品)运销，经销，分销
+seasoning    调料品
+estimator     估计量
+component  成分
+merge          合并
+clusters        集群
+shift             v.转移;挪动;赶快;快速移动;变换;更替;变动   n.改变;转移;转换;变换;班;轮班;轮班工作时间;轮班职工
+Uncensored
+Asynchronous   异步
+specific              具体的
+interrupt          打断
+enable               使可能
+detect              检测
+detective           侦探
+generate          生成
+internal          内部的
+Instruction       指令
+default         默认
+repository     仓库
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
